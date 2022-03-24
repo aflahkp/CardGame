@@ -1,0 +1,264 @@
+
+[
+    {
+      "suit": "hearts",
+      "value": 2,
+      "image": "http://deckofcardsapi.com/static/img/2H.png"
+    },
+    {
+      "suit": "hearts",
+      "value": 3,
+      "image": "http://deckofcardsapi.com/static/img/3H.png"
+    },
+    {
+      "suit": "hearts",
+      "value": 4,
+      "image": "http://deckofcardsapi.com/static/img/4H.png"
+    },
+    {
+      "suit": "hearts",
+      "value": 5,
+      "image": "http://deckofcardsapi.com/static/img/5H.png"
+    },
+    {
+      "suit": "hearts",
+      "value": 6,
+      "image": "http://deckofcardsapi.com/static/img/6H.png"
+    },
+    {
+      "suit": "hearts",
+      "value": 7,
+      "image": "http://deckofcardsapi.com/static/img/7H.png"
+    },
+    {
+      "suit": "hearts",
+      "value": 8,
+      "image": "http://deckofcardsapi.com/static/img/8H.png"
+    },
+    {
+      "suit": "hearts",
+      "value": 9,
+      "image": "http://deckofcardsapi.com/static/img/9H.png"
+    },
+    {
+      "suit": "hearts",
+      "value": 10,
+      "image": "http://deckofcardsapi.com/static/img/0H.png"
+    },
+    {
+      "suit": "hearts",
+      "value": "J",
+      "image": "http://deckofcardsapi.com/static/img/JH.png"
+    },
+    {
+      "suit": "hearts",
+      "value": "Q",
+      "image": "http://deckofcardsapi.com/static/img/QH.png"
+    },
+    {
+      "suit": "hearts",
+      "value": "K",
+      "image": "http://deckofcardsapi.com/static/img/KH.png"
+    },
+    {
+      "suit": "hearts",
+      "value": "A",
+      "image": "http://deckofcardsapi.com/static/img/AH.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": 2,
+      "image": "http://deckofcardsapi.com/static/img/2H.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": 3,
+      "image": "http://deckofcardsapi.com/static/img/3H.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": 4,
+      "image": "http://deckofcardsapi.com/static/img/4H.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": 5,
+      "image": "http://deckofcardsapi.com/static/img/5H.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": 6,
+      "image": "http://deckofcardsapi.com/static/img/6H.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": 7,
+      "image": "http://deckofcardsapi.com/static/img/7H.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": 8,
+      "image": "http://deckofcardsapi.com/static/img/8H.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": 9,
+      "image": "http://deckofcardsapi.com/static/img/9H.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": 10,
+      "image": "http://deckofcardsapi.com/static/img/0H.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": "J",
+      "image": "http://deckofcardsapi.com/static/img/JH.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": "Q",
+      "image": "http://deckofcardsapi.com/static/img/QH.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": "K",
+      "image": "http://deckofcardsapi.com/static/img/KH.png"
+    },
+    {
+      "suit": "diamonds",
+      "value": "A",
+      "image": "http://deckofcardsapi.com/static/img/AH.png"
+    },
+    {
+      "suit": "clubs",
+      "value": 2,
+      "image": "http://deckofcardsapi.com/static/img/2H.png"
+    },
+    {
+      "suit": "clubs",
+      "value": 3,
+      "image": "http://deckofcardsapi.com/static/img/3H.png"
+    },
+    {
+      "suit": "clubs",
+      "value": 4,
+      "image": "http://deckofcardsapi.com/static/img/4H.png"
+    },
+    {
+      "suit": "clubs",
+      "value": 5,
+      "image": "http://deckofcardsapi.com/static/img/5H.png"
+    },
+    {
+      "suit": "clubs",
+      "value": 6,
+      "image": "http://deckofcardsapi.com/static/img/6H.png"
+    },
+    {
+      "suit": "clubs",
+      "value": 7,
+      "image": "http://deckofcardsapi.com/static/img/7H.png"
+    },
+    {
+      "suit": "clubs",
+      "value": 8,
+      "image": "http://deckofcardsapi.com/static/img/8H.png"
+    },
+    {
+      "suit": "clubs",
+      "value": 9,
+      "image": "http://deckofcardsapi.com/static/img/9H.png"
+    },
+    {
+      "suit": "clubs",
+      "value": 10,
+      "image": "http://deckofcardsapi.com/static/img/0H.png"
+    },
+    {
+      "suit": "clubs",
+      "value": "J",
+      "image": "http://deckofcardsapi.com/static/img/JH.png"
+    },
+    {
+      "suit": "clubs",
+      "value": "Q",
+      "image": "http://deckofcardsapi.com/static/img/QH.png"
+    },
+    {
+      "suit": "clubs",
+      "value": "K",
+      "image": "http://deckofcardsapi.com/static/img/KH.png"
+    },
+    {
+      "suit": "clubs",
+      "value": "A",
+      "image": "http://deckofcardsapi.com/static/img/AH.png"
+    },
+    {
+      "suit": "spades",
+      "value": 2,
+      "image": "http://deckofcardsapi.com/static/img/2H.png"
+    },
+    {
+      "suit": "spades",
+      "value": 3,
+      "image": "http://deckofcardsapi.com/static/img/3H.png"
+    },
+    {
+      "suit": "spades",
+      "value": 4,
+      "image": "http://deckofcardsapi.com/static/img/4H.png"
+    },
+    {
+      "suit": "spades",
+      "value": 5,
+      "image": "http://deckofcardsapi.com/static/img/5H.png"
+    },
+    {
+      "suit": "spades",
+      "value": 6,
+      "image": "http://deckofcardsapi.com/static/img/6H.png"
+    },
+    {
+      "suit": "spades",
+      "value": 7,
+      "image": "http://deckofcardsapi.com/static/img/7H.png"
+    },
+    {
+      "suit": "spades",
+      "value": 8,
+      "image": "http://deckofcardsapi.com/static/img/8H.png"
+    },
+    {
+      "suit": "spades",
+      "value": 9,
+      "image": "http://deckofcardsapi.com/static/img/9H.png"
+    },
+    {
+      "suit": "spades",
+      "value": 10,
+      "image": "http://deckofcardsapi.com/static/img/0H.png"
+    },
+    {
+      "suit": "spades",
+      "value": "J",
+      "image": "http://deckofcardsapi.com/static/img/JH.png"
+    },
+    {
+      "suit": "spades",
+      "value": "Q",
+      "image": "http://deckofcardsapi.com/static/img/QH.png"
+    },
+    {
+      "suit": "spades",
+      "value": "K",
+      "image": "http://deckofcardsapi.com/static/img/KH.png"
+    },
+    {
+      "suit": "spades",
+      "value": "A",
+      "image": "http://deckofcardsapi.com/static/img/AH.png"
+    }
+  ]
+  
